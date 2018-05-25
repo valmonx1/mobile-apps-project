@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ViewImage">ViewImage</string>
+    <string name="UploadImage">UploadImage</string>
+    <string name="DownloadImage">DownloadImage</string>
+    <string name="DeleteImage">DeleteImage</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bitp3453.project_mobile">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity
+            android:name=".ViewImage"
+            android:label="@string/title_activity_view_image"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UploadImage"
+            android:label="@string/title_activity_upload_image"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DeleteImage"
+            android:label="@string/title_activity_delete_image"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Password"
+            android:label="@string/title_activity_password"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LogOut"
+            android:label="@string/title_activity_log_out"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Photo"
+            android:label="@string/title_activity_photo"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"/>
+
+
+    <item
+        android:id="@+id/nav_view_image"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="Gallery" />
+    <item
+        android:id="@+id/nav_upload_image"
+        android:icon="@drawable/ic_cloud"
+        android:title="Upload" />
+    <item
+        android:id="@+id/nav_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete" />
+    <item
+        android:id="@+id/nav_password"
+        android:icon="@drawable/ic_pass"
+        android:title="Change Password" />
+    <item
+        android:id="@+id/nav_photo"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Take Picture" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_out"
+        android:title="Log Out" />
+
+</menu>

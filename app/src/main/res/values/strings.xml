@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">E-Native Personal Picture Storage</string>
+    <string name="title_activity_view_image">ViewImage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="view_image">ViewImage</string>
+    <string name="title_activity_upload_image">UploadImage</string>
+    <string name="title_activity_download_image">DownloadImage</string>
+    <string name="title_activity_delete_image">DeleteImage</string>
+    <string name="ViewImage">ViewImage</string>
+    <string name="UploadImage">UploadImage</string>
+    <string name="DownloadImage">DownloadImage</string>
+    <string name="DeleteImage">DeleteImage</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_password">Password</string>
+    <string name="title_activity_log_out">LogOut</string>
+    <string name="title_activity_photo">Photo</string>
+</resources>

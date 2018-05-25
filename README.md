@@ -1,7 +1,7 @@
 # readme e-Native Personal Picture Storage
 
 ## Project Background
-e-Native Personal Picture Storage (eNPPS) is an application that provide a user to keep personal photo in database as portable storage. Example, grab a photo of poster, important receipt or any document and store it into cloud database. It easily to organize picture or find it later in search at main activity. Also, keep all photos and share it with others.
+e-Native Personal Picture Storage (eNPPS) is an application that provide a user to keep personal photo in database as portable storage. Example, grab a photo of poster, important receipt or any document and store it into cloud database. It easily to organize picture or find it later in search at main activity. Also, keep all photos and share it with others..
 
 ---
 
